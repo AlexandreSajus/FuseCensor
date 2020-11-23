@@ -6,7 +6,9 @@
 
 ## Introduction
 
-**Fuse Censor** emerged in the context of the Coding Weeks as as project using machine learning and more explicitly Natural Language Processing with Sentiment Analysis. After being through some brainstorming we have come up with the basic idea of a multi-browser extension analysing the body of a page replacing or censoring all explicitly negative contents. 
+**Fuse Censor** emerged in the context of the Coding Weeks at CentraleSupélec as a project using machine learning and more explicitly Natural Language Processing with Sentiment Analysis. After being through some brainstorming we came up with the basic idea of a multi-browser extension analysing the body of a page replacing or censoring all explicitly negative contents.
+
+Made by Fabien CHARLIER, Antoine DEBOUCHAGE, Danyel GOLBOL, Alexandre SAJUS, Pierre OLIVIER
 #
 ## Description
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
@@ -19,6 +21,13 @@
 ![trello](https://img.shields.io/badge/vsc-blue?logo=visual-studio-code)
 <!-- ![rating](https://img.shields.io/badge/rating-★★★★★-yellow) -->
 <b>Fuse Censor</b> is an extension that provides an efficient way to censor swear words and negative contents based on sentiment analysis through Naturla Langage Processing.
+#
+## Examples
+<div align="center">
+  <img src="images/spoilerExample.png">
+  <img src="images/slide.png">
+</div>
+
 #
 ## Options
 
