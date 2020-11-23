@@ -25,7 +25,7 @@ Made by Fabien CHARLIER, Antoine DEBOUCHAGE, Danyel GOLBOL, Alexandre SAJUS, Pie
 ## Examples
 <div align="center">
   <img src="images/spoilerExample.png">
-  <img src="images/slide.png">
+  <img src="images/slide.PNG">
 </div>
 
 #
