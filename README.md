@@ -13,7 +13,7 @@ Made by Fabien CHARLIER, Antoine DEBOUCHAGE, Danyel GOLBOL, Alexandre SAJUS, Pie
 ## Description
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![development](https://img.shields.io/badge/development-in%20progress-orange)
-![maintenance](https://img.shields.io/badge/maintained-yes-brightgreen.svg)
+![maintenance](https://img.shields.io/badge/maintained-no-red.svg)
 ![launched](https://img.shields.io/badge/launched-no-red.svg)
 
 
